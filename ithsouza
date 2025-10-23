@@ -1,0 +1,40 @@
+Relatório de Contribuição Open Source
+Nome: Thiago Francisco de Souza
+Projeto: DIO - Lab Open Source
+Tipo de contribuição: Melhoria na documentação
+Data: Outubro de 2025
+Projeto Escolhido
+O projeto escolhido para minha contribuição foi o DIO Lab Open Source, disponível no GitHub da Digital Innovation One:
+https://github.com/digitalinnovationone/dio-lab-open-source
+Esse projeto tem o objetivo de ensinar desenvolvedores a praticar contribuições em código aberto, utilizando comandos do Git e GitHub para criar forks, branches, commits e pull requests.
+Objetivo da Contribuição
+O objetivo da minha contribuição foi melhorar a documentação do projeto, tornando as instruções mais claras para quem está começando.
+Incluí uma explicação sobre o uso do comando git push e adicionei um exemplo de arquivo de perfil para facilitar o entendimento.
+Tipo de Contribuição
+Melhoria na documentação (README.md)
+Adição de exemplo prático de arquivo de perfil
+Ajustes de formatação e clareza no texto
+Etapas Realizadas
+Fiz o fork do repositório da DIO no meu GitHub.
+Clonei o repositório para o meu computador com o comando:
+git clone https://github.com/thiagofsouza/dio-lab-open-source.git
+Criei um novo branch para as alterações:
+git checkout -b melhoria-documentacao
+Editei o arquivo README.md, adicionando explicações e um exemplo de arquivo de perfil.
+Fiz o commit das mudanças:
+git add .
+git commit -m "Melhoria na documentação e exemplo de perfil"
+Enviei as alterações para o GitHub:
+git push origin melhoria-documentacao
+Criei o Pull Request (PR) no repositório principal da DIO, descrevendo as melhorias realizadas.
+Descrição do Pull Request
+Título: Melhoria na documentação e exemplo de perfil
+Descrição:
+Adicionei uma explicação sobre o comando git push e um exemplo de arquivo de perfil (thiagofsouza.md) na documentação principal.
+O objetivo foi facilitar o processo de contribuição para novos participantes do projeto.
+Resultado
+A documentação ficou mais completa e fácil de entender.
+Essa contribuição me ajudou a praticar o uso do Git e GitHub e a compreender melhor o processo de colaboração em projetos open source.
+Conclusão
+Contribuir com o projeto DIO Lab Open Source foi uma boa oportunidade para aplicar o que aprendi sobre versionamento de código e trabalho colaborativo.
+Melhorar a documentação mostrou como pequenas mudanças podem ajudar outras pessoas que estão aprendendo a contribuir em projetos de código aberto.
